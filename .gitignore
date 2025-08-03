@@ -11,3 +11,7 @@ __pycache__/
 
 # pytest cache
 .pytest_cache/
+
+# Distribution / build folders
+dist/
+wixok.txtfile.egg-info/
