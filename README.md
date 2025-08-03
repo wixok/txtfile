@@ -1,6 +1,6 @@
 # TXTFile
 
-Simple Python package for text file operations.
+Simple Python package for TXT file operations.
 
 ## Install
 
